@@ -1,0 +1,33 @@
+@import url('http://fonts.googleapis.com/css?family=Raleway:200,400,600,700,800');
+
+body {
+  margin: 1em;
+  text-align: center;
+  background-color: #eee;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-weight: 200;
+  font-size: 24px;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: -.02em;
+  color: #111;
+}
+
+.links a {
+  margin: 0 0.5em;
+  clear: both;
+  text-decoration: none;
+  margin-bottom: 1em;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #369;
+  transition: 0.2s;
+}
+
+.links a:hover {
+  color: #39c;
+  transition: 0.2s;
+}
